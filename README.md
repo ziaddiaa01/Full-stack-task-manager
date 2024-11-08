@@ -1,3 +1,3 @@
 # Full-stack-task-manager
 
-[![Screenshot-500.png](https://i.postimg.cc/MpnwbF75/Screenshot-500.png)](https://postimg.cc/fVQ1M5gS)
+![Screenshot (500)](https://github.com/user-attachments/assets/f8964b54-04a2-4ffd-a20f-b29bc3b75ac2)
