@@ -1,3 +1,3 @@
 # Full-stack-task-manager
 
-![Project Screenshot](https://ibb.co/jR9bFTH)
+![Project Screenshot](https://i.postimg.cc/MpnwbF75/Screenshot-500.png)
