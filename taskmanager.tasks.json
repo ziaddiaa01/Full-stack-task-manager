@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "672d2317f7d0b160bbdce6b2"
+  },
+  "title": "Learn Advanced Java",
+  "description": "Finish the advanced Java course and practice projects",
+  "completed": false,
+  "userId": {
+    "$oid": "672d20bc59b3073dfebb8824"
+  },
+  "createdAt": {
+    "$date": "2024-11-07T20:29:11.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-07T20:29:11.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672e3f23ac2fe117e75e6cf1"
+  },
+  "title": "Learn Advanced Math",
+  "description": "Finish the advanced Math course and practice projects",
+  "completed": true,
+  "userId": {
+    "$oid": "672e208c0f5752c90990f8df"
+  },
+  "createdAt": {
+    "$date": "2024-11-08T16:41:07.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T16:41:07.347Z"
+  },
+  "__v": 0
+}]

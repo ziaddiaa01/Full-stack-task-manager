@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "672d20bc59b3073dfebb8824"
+  },
+  "name": "sayed",
+  "email": "sayed@example.com",
+  "password": "$2a$10$4zs3Hu6uHGt4AwmTUzJOrO4K31gMmy2ZFyEu4/k9jCRCL7KB.LWc2",
+  "createdAt": {
+    "$date": "2024-11-07T20:19:08.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672e208c0f5752c90990f8df"
+  },
+  "name": "Ziad diaa ezzat",
+  "email": "ziaddiea@gmail.com",
+  "password": "$2a$10$3F8pCynHcoufqogKjLJlSu5o4JIVyNZdPjktaBI82K/02T31C2zkC",
+  "createdAt": {
+    "$date": "2024-11-08T14:30:36.197Z"
+  },
+  "__v": 0
+}]
